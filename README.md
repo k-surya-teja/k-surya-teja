@@ -6,9 +6,9 @@
   
   At Shipsy, I'm gaining hands-on experience in software development, working on exciting projects, and contributing to cutting-edge solutions in the logistics and supply chain industry. My role involves:
   
-  **Developing and optimizing** software solutions to enhance operational efficiency.<br/>
-  **Collaborating** with a talented team of engineers and product managers to design and implement new features.<br/>
-  **Utilizing current technologies** to build robust and scalable applications.<br/>
+  **1. Developing and optimizing** software solutions to enhance operational efficiency.<br/>
+  **2. Collaborating** with a talented team of engineers and product managers to design and implement new features.<br/>
+  **3. Utilizing current technologies** to build robust and scalable applications.<br/>
 
 ## 🛠 Skills
 
