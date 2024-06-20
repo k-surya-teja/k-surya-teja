@@ -6,9 +6,9 @@
   
   At Shipsy, I'm gaining hands-on experience in software development, working on exciting projects, and contributing to cutting-edge solutions in the logistics and supply chain industry. My role involves:
   
-  **Developing and optimizing** software solutions to enhance operational efficiency.
-  **Collaborating** with a talented team of engineers and product managers to design and implement new features.
-  **Utilizing current technologies** to build robust and scalable applications.
+  **Developing and optimizing** software solutions to enhance operational efficiency.<br/>
+  **Collaborating** with a talented team of engineers and product managers to design and implement new features.<br/>
+  **Utilizing current technologies** to build robust and scalable applications.<br/>
 
 ## 🛠 Skills
 
@@ -19,7 +19,7 @@
   [![My Skills](https://skillicons.dev/icons?i=react,angular,express,bootstrap,jquery,nodejs,nextjs,tailwind,sass,materialui,redux)](https://skillicons.dev)
   
   ### Tools
-  [![My Skills](https://skillicons.dev/icons?i=git,docker,github,npm,vscode,redux,intellij,eclipse,pycharm,mysql,mongodb,firebase,netlify,vercel,jenkins,discord,postman,gradle,webpack,babel,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,docker,github,npm,vscode,redux,styledcomponents,eclipse,pycharm,mysql,mongodb,firebase,netlify,vercel,jenkins,discord,postman,gradle,webpack,babel,figma)](https://skillicons.dev)
 
   ### Operating Systems
   [![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https://skillicons.dev)
