@@ -13,20 +13,18 @@
 ## 🛠 Skills
 
   ### Programming Languages
-  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,c,typescript,php,sql,bash,latex)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,c,typescript,php,sqlite,bash,latex)](https://skillicons.dev)
   
   ### Frameworks/Libraries
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,express,bootstrap,jquery,nodejs,nextjs,tailwind,materialui,redux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,express,bootstrap,jquery,nodejs,nextjs,tailwind,sass,materialui,redux)](https://skillicons.dev)
   
   ### Tools
-  [![My Skills](https://skillicons.dev/icons?i=git,docker,github,npm,vscode,redux,intellij,eclipse,pycharm,jupyter,mysql,mongodb,firebase,netlify,vercel,apache,jenkins,slack,discord,postman,gradle,webpack,babel,eslint,prettier,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,docker,github,npm,vscode,redux,intellij,eclipse,pycharm,mysql,mongodb,firebase,netlify,vercel,jenkins,discord,postman,gradle,webpack,babel,figma)](https://skillicons.dev)
 
   ### Operating Systems
   [![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-surya-teja&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-surya-teja&layout=compact&theme=radical)
 
