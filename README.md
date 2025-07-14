@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-  Hi there! I'm Surya Teja, currently a **Software Engineer Intern** at **Shipsy** in Bangalore.
+  Hi there! I'm Surya Teja, currently a **Software Engineer** at **Shipsy** in Bangalore.
   
   At Shipsy, I'm gaining hands-on experience in software development, working on exciting projects, and contributing to cutting-edge solutions in the logistics and supply chain industry. My role involves:
   
